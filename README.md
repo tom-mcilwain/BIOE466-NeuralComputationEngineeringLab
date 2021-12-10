@@ -1,2 +1,5 @@
-# BIOE466-NeuralComputationEngineeringLab
-Effects of EMG Electrode Placement on a Closed-Loop Neural Interface
+# BIOE 466: Neural Computation and Engineering Laboratory - University of Washington
+
+Title: Effects of EMG Electrode Placement on a Closed-Loop Neural Interface
+
+Abstract:  Many people without lower arm function due to amputation or paralysis have trouble with everyday tasks required for autonomous living such as grasping, lifting, and moving objects. In this paper, we propose an electromyography (EMG)-based closed-loop neural interface that aims to restore these abilities to those without lower arm function and explore the effects that EMG electrode placement has on the performance of our system. Our neural interface uses a Kalman filter to decode EMG signals in order to control a simple grasper. We quantify the effects of EMG electrode placement on the system’s performance in a control task that measures ease of use, speed, and accuracy. We found that EMG electrodes placed on the neck muscles provided the best performance on our control task. The neck muscles also are not part of the lower arm and could therefore be useful for potential neural prosthetics. Overall our results show promising data that can inform the placement of EMG electrodes for optimal performance of closed-loop neural interfaces.
